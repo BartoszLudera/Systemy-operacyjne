@@ -1,0 +1,3 @@
+Ile procesów powstanie przy n-krotnym wywołaniu funkcji fork-exec jak wżej i dlaczego?
+
+Powstanie n procesów ponieważ ID nie tworzy wnuków.

@@ -1,0 +1,3 @@
+Ile procesów powstanie przy n-krotnym wywołaniu funkcji fork i dlaczego?
+
+Powstanei 2^n ponieważ z każdego rodzica powstają 2 procesy potomne dlatego jest to 2^n gdzie n to ilosć wykonanych funkcji forl.
